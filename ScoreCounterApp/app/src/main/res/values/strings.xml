@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScoreCounterApp</string>
+    <string name="buttonTeamOne">Team1</string>
+    <string name="buttonTeamTwo">Team2</string>
+    <string name="teamCountOne">0</string>
+    <string name="teamCountTwo">0</string>
+    <string name="WinningTeam">team</string>
+    <string name="howMuchWonBy">TextView</string>
+    <string name="sageName">SAGE</string>
+    <string name="omenName">OMEN</string>
+    <string name="backButton">BACK</string>
+</resources>
